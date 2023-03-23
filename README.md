@@ -10,7 +10,7 @@ While adaptive learning rate methods, such as Adam, have achieved remarkable imp
 <div  align="center"><img src="https://github.com/Yonghongwei/AdaBK/blob/main/image/5.png" height="55%" width="55%" alt="General Regret Bound Theorem"/></div>
 
 
-## A General Regret Bound for Constrained Preconditioned Gradient
+## A General Regret Bound for Constrained Preconditioned Gradient Descent Algorithm
 We propose a general regret bound theorem for general constrained preconditioned gradient descent methods:
 <div  align="center"><img src="https://github.com/Yonghongwei/AdaBK/blob/main/image/1.png" height="75%" width="75%" alt="General Regret Bound Theorem for AdaBK"/></div>
 
